@@ -1,5 +1,5 @@
 module.exports = ({ env }) => ({
-  url: '/dashboard',
+  // url: '/dashboard',
   auth: {
     secret: 'ezjCXipSmuHUCE+XEDuoEA==',
   },
